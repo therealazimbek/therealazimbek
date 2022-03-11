@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @therealazimbek
 - 👀 I’m interested in IT, Science and Movies
-- 🌱 I’m currently learning Java, Android Development
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: azimbek162018@gmail.com
 
