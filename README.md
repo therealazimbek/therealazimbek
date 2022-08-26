@@ -8,7 +8,7 @@ I'm a Computer Science student. I've been learning programming since high school
 
 * 🌍  I'm based in Almaty, Kazakhstan
 * ✉️  You can contact me at [azimbek162018@gmail.com](mailto:azimbek162018@gmail.com)
-* 🧠  I'm learning Angular and Django REST Framework
+* 🧠  I'm learning .NET Development
 * 🤝  I'm open to collaborating on any web-project
 * ⚡  Love watching movies in my free time)
 
