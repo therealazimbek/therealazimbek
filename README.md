@@ -2,13 +2,13 @@
 
 <h3 align="center">A passionate backend developer from Kazakhstan</h3>
 
-- 🔭 I’m currently working on **EPAM .NET Course**
+<!-- - 🔭 I’m currently working on **EPAM .NET Course** -->
 
-- 🌱 I’m currently learning **.NET Development**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I'm open to collaborating **on any web-project**
 
-- 💬 Ask me about **html, css, python, django**
+- 💬 Ask me about **html, css, python, django, c#, js**
 
 - 📫 How to reach me **azimbek162018@gmail.com**
 
